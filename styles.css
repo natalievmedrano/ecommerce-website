@@ -10,15 +10,22 @@ html{
     
 }
 
+.flex-container{
+    display: flex;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
 .logo{
     background-color: brown;
     font-size: 3em;
     margin: 0 auto;
-    float: right;
 }
 
-.rightside{
-    text-align: right;
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about{
@@ -32,11 +39,12 @@ html{
 
 .rightimage{
     float: right;
+    margin-right: auto;
 }
 
 .middletext{
-    text-align: center;
     font-size: medium
+    margin
 }
 
 .bottomtext{
@@ -48,4 +56,12 @@ html{
     font-size: large;
     margin:auto
 
+}
+.section title{
+    font-size: large;
+}
+
+.information{
+    font-size: small;
+    text-align: left;
 }
