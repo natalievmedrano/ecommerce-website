@@ -9,3 +9,43 @@ html{
     font-size: 62.5%;
     
 }
+
+.logo{
+    background-color: brown;
+    font-size: 3em;
+    margin: 0 auto;
+    float: right;
+}
+
+.rightside{
+    text-align: right;
+}
+
+.about{
+    font-size: large;
+    text-align: left;
+}
+
+.aboutus{
+    font-size: medium;
+}
+
+.rightimage{
+    float: right;
+}
+
+.middletext{
+    text-align: center;
+    font-size: medium
+}
+
+.bottomtext{
+    text-align: center;
+    font-size: medium
+}
+
+.Products{
+    font-size: large;
+    margin:auto
+
+}
