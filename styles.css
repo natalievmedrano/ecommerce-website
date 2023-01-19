@@ -17,6 +17,7 @@ html{
 
 .flex-container{
     display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .justify-evenly{
@@ -44,6 +45,7 @@ html{
 .border-bottom{
     border-bottom: black solid 3px;
     padding-bottom: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .nav a{
     font-size: 13px;
@@ -51,14 +53,13 @@ html{
 }
 
 .body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about{
     font-size: large;
     text-align: left;
 }
-
 .aboutus{
     font-size: medium;
 }
@@ -95,9 +96,11 @@ html{
 }
 
 .Products{
-    font-size: large;
-    margin:auto
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
+.button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .section title{
     font-size: large;
@@ -134,3 +137,17 @@ html{
 .bottom-right{
     text-align: right;
 }
+
+.leftimage{
+    text-align: left;
+}
+
+.middletext{
+    text-align: center;
+}
+
+.bottom-center{
+    text-align: center;
+    font-size: 15px;
+}
+
