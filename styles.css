@@ -14,6 +14,15 @@ html{
     padding: 12px 84px;
     box-shadow: 0px 3px 12 px #707070;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 20px;
+
+}
 
 .flex-container{
     display: flex;
@@ -99,12 +108,16 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
+.product-card img{
+    
+}
 .text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
 }
 .about{
-    font-size: 10px;
+    font-size: 14px;
 }
 .section title{
     font-size: 30px;
