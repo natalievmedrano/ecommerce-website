@@ -132,6 +132,7 @@ h6 {
 .information{
     font-size: 10px;
     text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .footer{
@@ -188,3 +189,4 @@ h6 {
 .section-title{
     font-size: 30px;
 }
+
