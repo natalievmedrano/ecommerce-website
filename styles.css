@@ -109,9 +109,6 @@ h6 {
 
 }
 
-.product-card img{
-    
-}
 .text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -137,7 +134,7 @@ h6 {
 }
 
 .footer{
-    background-color: #cc6600;
+    background-color: #bf7631;
     margin: 0;
     text-align: center;
     padding: 12px 84px;
@@ -178,3 +175,6 @@ h6 {
     font-size: 15px;
 }
 
+.cart{
+    background-color: ;
+}
