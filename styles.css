@@ -99,15 +99,27 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-.button{
+.text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.about{
+    font-size: 10px;
 }
 .section title{
-    font-size: large;
+    font-size: 30px;
 }
 
+.email{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.message{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .information{
-    font-size: small;
+    font-size: 10px;
     text-align: left;
 }
 
@@ -115,6 +127,8 @@ html{
     background-color: #cc6600;
     margin: 0;
     text-align: center;
+    padding: 12px 84px;
+    box-shadow: 0px 3px 12 px #707070;
 }
 
 .left-side{
