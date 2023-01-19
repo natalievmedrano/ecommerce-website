@@ -45,9 +45,13 @@ html{
     border-bottom: black solid 3px;
     padding-bottom: 6px;
 }
+.nav a{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 .body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .about{
@@ -68,9 +72,26 @@ html{
     margin
 }
 
-.bottomtext{
-    text-align: center;
-    font-size: medium
+.bottom-text{
+    position: absolute; 
+    bottom: 220px; 
+    right: 20px; 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.logo{
+    position: relative;
+    margin: 1%;
+}
+
+.left-text{
+    position: absolute; 
+    top: 150px; 
+    left: 20px; 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
 }
 
 .Products{
@@ -89,4 +110,25 @@ html{
 
 .footer{
     background-color: orange;
+    margin: 0;
+    text-align: center;
+}
+
+.left-side{
+    text-align: center;
+}
+.right-side{
+    text-align: center;
+}
+
+.bottomlogo{
+    text-align: center;
+}
+
+.bottom-left{
+    text-align: left;
+}
+
+.bottom-right{
+    text-align: right;
 }
