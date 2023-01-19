@@ -41,6 +41,7 @@ h6 {
     align-items: baseline;
 }
 
+
 .logo{
     font-size: 19px;
     margin: 0 auto;
@@ -176,5 +177,14 @@ h6 {
 }
 
 .cart{
-    background-color: ;
+    background-color: #bf7631;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.more{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-title{
+    font-size: 30px;
 }
