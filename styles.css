@@ -109,7 +109,7 @@ html{
 }
 
 .footer{
-    background-color: orange;
+    background-color: #cc6600;
     margin: 0;
     text-align: center;
 }
@@ -123,6 +123,8 @@ html{
 
 .bottomlogo{
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 .bottom-left{
